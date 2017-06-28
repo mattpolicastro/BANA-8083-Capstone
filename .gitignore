@@ -1,0 +1,13 @@
+# virtualenv
+.Python
+pip-selfcheck.json
+bin/
+include/
+lib/
+share/
+
+# Jupyter Notebook & IPython
+.ipynb_checkpoints
+
+# Ignore PDFs until final drafts
+*.pdf
