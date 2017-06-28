@@ -9,6 +9,9 @@ share/
 # Jupyter Notebook & IPython
 .ipynb_checkpoints
 
+# Shapely files and cache
+shapely/
+
 # Ignore Socrata credentials
 socrata.json
 
