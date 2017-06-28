@@ -9,5 +9,8 @@ share/
 # Jupyter Notebook & IPython
 .ipynb_checkpoints
 
+# Ignore Socrata credentials
+socrata.json
+
 # Ignore PDFs until final drafts
 *.pdf
