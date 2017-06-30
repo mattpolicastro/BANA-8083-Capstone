@@ -35,3 +35,4 @@ The results of this capstone do not form a rigorous analysis of biased districti
 
 * [City of Cincinnati Census & Demographics](http://www.cincinnati-oh.gov/planning/reports-data/census-demographics/)
 * [Cincinnati Area Geographic Information System (CAGIS)](http://cagismaps.hamilton-co.org/cagisportal/mapdata/)
+* [CPD Neighbourhoods](https://services.arcgis.com/JyZag7oO4NteHGiq/arcgis/rest/services/CPD_Neighborhoods/FeatureServer) (Extracted using [EsriDump](https://github.com/openaddresses/pyesridump))

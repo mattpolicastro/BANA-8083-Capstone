@@ -1,4 +1,4 @@
-neighborhood_clean,district_clean,counts,population
+neighborhood,district,crimes,population
 Avondale,4,908,12466
 Bond Hill,4,444,6972
 CUF,5,765,16989
@@ -28,11 +28,12 @@ Mt. Airy,5,535,8779
 Mt. Auburn,4,386,4904
 Mt. Lookout,2,90,4814
 Mt. Washington,2,305,11711
-North Avondale - Paddock Hills,4,519,4188
+North Avondale,4,385,3229
 North Fairmount,3,89,1812
 Northside,5,658,7467
 Oakley,2,493,10429
 Over-the-Rhine,1,963,6064
+Paddock Hills,4,134,959
 Pendleton,1,127,900
 Pleasant Ridge,2,263,8083
 Queensgate,1,126,142
