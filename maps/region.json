@@ -1,0 +1,23 @@
+{
+  "type":"FeatureCollection",
+  "features":[
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-84.72, 39.045],
+            [-84.72, 39.230],
+            [-84.36, 39.230],
+            [-84.36, 39.045],
+            [-84.72, 39.045]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "NHOOD": "Region"
+      }
+    }
+  ]
+}
