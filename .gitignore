@@ -8,6 +8,7 @@ share/
 
 # Jupyter Notebook & IPython
 .ipynb_checkpoints
+etc/
 
 # Shapely files and cache
 shapely/
