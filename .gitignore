@@ -19,4 +19,4 @@ socrata.json
 # Ignore PDFs until final drafts
 *.pdf
 
-.pyc
+*.pyc
