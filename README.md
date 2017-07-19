@@ -22,9 +22,11 @@ The results of this capstone do not form a rigorous analysis of biased districti
 
 - [x] Conduct literature review of primary sources/related articles
 - [x] Source and clean population/crime/geographic data
-- [ ] *(In progress) Develop the code to conduct the simulation*
-- [ ] Analyse computational runtime data
-- [ ] Quantify similarity/dissimilarity
+- [x] Develop the code to conduct the simulation
+- ~~Analyse computational runtime data~~
+- [x] Quantify similarity/dissimilarity
+- [x] Run the simulation
+- [ ] Write up results
 
 ## Primary sources:
 
