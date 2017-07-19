@@ -1,3 +1,20 @@
+# Jupyter Notebook & IPython
+.ipynb_checkpoints
+etc/
+
+# LaTeX & BibLaTeX
+*.bbl
+
+# R & Rstudio
+.RData
+.Rhistory
+
+# Shapely files and cache
+shapely/
+
+# Socrata credentials
+socrata.json
+
 # virtualenv
 .Python
 pip-selfcheck.json
@@ -6,17 +23,5 @@ include/
 lib/
 share/
 
-# Jupyter Notebook & IPython
-.ipynb_checkpoints
-etc/
-
-# Shapely files and cache
-shapely/
-
-# Ignore Socrata credentials
-socrata.json
-
-# Ignore PDFs until final drafts
-*.pdf
 
 *.pyc
