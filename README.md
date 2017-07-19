@@ -26,7 +26,8 @@ The results of this capstone do not form a rigorous analysis of biased districti
 - ~~Analyse computational runtime data~~
 - [x] Quantify similarity/dissimilarity
 - [x] Run the simulation
-- [ ] Write up results
+- [x] Write up results
+- [ ] Make necessary edits
 
 ## Primary sources:
 
