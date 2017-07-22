@@ -7,7 +7,7 @@ author:
 - "Professor Michael Magazine, Second Reader"
 date: "`r Sys.Date()`"
 abstract: |
-  This capstone replicates a methodology for identifying biased electoral district schemes on a smaller scale in a new context. Rather than electoral districts this project examines three of the five Cincinnati Police Department (CPD) districts containing twenty-four of the City of Cincinnati's fifty neighbourhoods. It should be noted that this project does not constitute a rigorous analysis of potentially biased districting practices on the part of the city; instead, this project identifies advantages, trade-offs, and other challenges related to implementation and analysis.
+  This capstone replicates a methodology for identifying biased redistricting plans in a new context. Rather than electoral districts, twenty-four of the City of Cincinnati's fifty neighbourhoods across three of the five Cincinnati Police Department districts were chosen as the units of analysis. It should be noted that this project did not constitute a rigourous analysis of potentially-biased districting practices; instead, this project identified advantages, trade-offs, and other challenges related to implementation and analysis. While the results of the evolutionary algorithm-driven simulation suggested deficiencies in the current implementation, the underlying methodology is sound and provides a basis for future improvements in evaluation criteria, computational efficiency, and evolutionary operators. 
 bibliography: references.bib
 geometry: margin=1in
 fontsize: 12pt
