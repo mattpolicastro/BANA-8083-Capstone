@@ -27,9 +27,9 @@ The results of this capstone do not form a rigorous analysis of biased districti
 - [x] Quantify similarity/dissimilarity
 - [x] Run the simulation
 - [x] Write up results
-- [ ] Make necessary edits
+- [x] Make necessary edits
 
-## Primary sources:
+## Primary sources
 
 * Yan Y. Liu, Wendy K. Tam Cho. (2016). Toward a Talismanic Redistricting Tool: A Computational Method for Identifying Extreme Redistricting Plans. *Election Law Journal*, *15(4)*, 351–366. DOI: 10.1089/elj.2016.0384
 * Liu, Y. Y., Cho, W. K. T., & Wang, S. (2016). PEAR: a massively parallel evolutionary computation approach for political redistricting optimization and analysis. *Swarm and Evolutionary Computation*, *30*, 78–92. DOI: 10.1016/j.swevo.2016.04.004
